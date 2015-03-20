@@ -40,7 +40,7 @@ Any comments, corrections and suggestions are welcome.
 
 ### Demo
 
-jsFiddle.net: 
+http://www.incredible-web.com/demo/knockout.async/
 
 ### Usage
 
