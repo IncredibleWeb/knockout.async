@@ -1,0 +1,13 @@
+img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul > li {
+    display: inline-block;
+    float: left;
+}
